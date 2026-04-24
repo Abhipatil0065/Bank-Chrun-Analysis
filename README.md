@@ -10,6 +10,7 @@ Identify customers who are likely to leave
 Understand churn patterns
 Find key factors influencing customer attrition
 Improve customer retention strategies
+
 2. Goal of the Dashboard
 
 The main goal of this dashboard is to:
@@ -19,6 +20,7 @@ Identify churn rate across different customer segments
 Analyze churn by age, gender, country, and account activity
 Understand the relationship between products and churn
 Help management make data-driven retention decisions
+
 3. Key Visuals Used in Dashboard
 KPI Cards
 
