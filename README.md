@@ -132,4 +132,4 @@ Data Modeling
 DAX Measures
 Data Visualization# Bank-Chrun-Analysis
 
-(https://github.com/Abhipatil0065/Bank-Chrun-Analysis/blob/main/Bank%20chrun%20analysis%20project.png)
+![Dashboard priview](https://github.com/Abhipatil0065/Bank-Chrun-Analysis/blob/main/Bank%20chrun%20analysis%20project.png)
